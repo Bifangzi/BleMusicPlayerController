@@ -317,9 +317,9 @@ export default {
 				// copyright: '© 2026 ESP32P4 Music Player'
 				
 				// 开源信息展示接口：仓库地址、文案和图标均可通过 SetAppInfo 动态修改。
-				repositoryUrl: 'https://github.com/zz97303998/ESP32P4-Music-Player',
+				repositoryUrl: 'https://github.com/Bifangzi/BleMusicPlayerController',
 				openSourceTitle: 'Open Source on GitHub',
-				openSourceDesc: '本项目采用开源方式维护，点击查看源码仓库',
+				openSourceDesc: '本项目基于MIT协议开源，点击查看源码仓库',
 				githubIcon: '/static/github_icon.png'
 				
 			},
